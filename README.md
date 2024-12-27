@@ -9,13 +9,14 @@ MoveCRM is an innovative open-source CRM and ERP system built on **Laravel**, de
 ### 🌐 Modular System
 - Add or remove features based on your business needs.
 - Custom modules for sales, support, project management, and more.
+- Laravel Jetstream starter kit for Laravel
 
 ### 🔒 Secure and Scalable
 - Built with Laravel 11, ensuring top-tier security and performance.
 - Easily scalable as your business grows.
 
 ### 🎨 User-Friendly Interface
-- Modern, responsive UI crafted with **Material Web** for an intuitive experience.
+- Modern, responsive UI crafted with **Materio** for an intuitive experience.
 - Fully customizable dashboards and views.
 
 ### 📊 Advanced Data Management
