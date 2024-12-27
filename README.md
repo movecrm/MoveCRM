@@ -81,6 +81,14 @@ Password: password
 - **Highly Customizable** – Tailor MoveCRM to fit your unique business needs.
 
 ---
+## 💻 Apps for Windows, macOS, and Linux
+MoveCRM can be accessed via web browsers, but for enhanced user experience, desktop applications are available for:
+
+- **Windows** – Download and install the latest release from [here](https://github.com/movecrm/releases).
+- **macOS** – Compatible with the latest macOS versions. Download the DMG file from [here](https://github.com/movecrm/releases).
+- **Linux** – Available as a .deb and .rpm package for easy installation. Download from [here](https://github.com/movecrm/releases).
+
+---
 
 ## 🤝 Contributing
 We welcome contributions from the community! Whether it's bug fixes, new features, or documentation, feel free to submit a pull request.
