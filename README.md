@@ -96,5 +96,5 @@ MoveCRM is proudly supported by our amazing sponsors. A big thank you to:
 ---
 
 ### License
-Copyright © [MoveCRM](https://movecrm.org/)), 2012 - Present.   
+Copyright © [MoveCRM](https://movecrm.org/), 2022 - Present.   
 MoveCRM is licensed under the [MIT License](LICENSE).
