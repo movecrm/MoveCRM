@@ -1,6 +1,8 @@
-# MoveCRM - Open-Source CRM & ERP
+<picture>
+<center><img src="https://github.com/movecrm/MoveCRM/blob/main/Logo-movecrm-small.svg"></center> 
+</picture>
 
-**The all-in-one solution to manage your business and boost customer engagement**
+# MoveCRM - Open-Source CRM & ERP
 
 MoveCRM is an innovative open-source CRM and ERP system built on **Laravel**, designed to streamline your business processes and enhance customer relationships. MoveCRM's modular architecture allows seamless integration of new features, making it the perfect choice for businesses of all sizes.
 
