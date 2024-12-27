@@ -56,7 +56,15 @@ php artisan migrate
 php artisan serve
 
 ```
+## 🆔 Credentials
 
+```
+Admin: admin@example.com
+Password: password
+
+User: user@example.com
+Password: password
+```
 ---
 
 ## 💼 Use Cases
