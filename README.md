@@ -1,6 +1,4 @@
-<picture>
-<center><img src="https://github.com/movecrm/MoveCRM/blob/main/Logo-movecrm-small.svg"></center> 
-</picture>
+<p align="center"><img width="400" src="https://github.com/movecrm/MoveCRM/blob/main/Logo-movecrm-small.svg"></a></p>
 
 # MoveCRM - Open-Source CRM & ERP
 
@@ -89,6 +87,14 @@ For support or inquiries, please reach out to our [support team](mailto:support@
 ---
 
 **Star** ⭐ this project to show your support!
+
+---
+
+## Sponsors
+
+MoveCRM is proudly supported by our amazing sponsors. A big thank you to:
+
+[![themeselection.com](https://hf2kfb.infiniteuploads.cloud/thegem-logos/logo_80fe48c54d95b89dfcc63d4b263e38b6_1x.png)](https://themeselection.com/)
 
 ---
 
