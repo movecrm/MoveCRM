@@ -54,9 +54,6 @@ php artisan migrate
 # Serve the application
 php artisan serve
 
-# Add Partners Module
-git submodule add https://github.com/username/movecrm-partners.git modules/partners
-php artisan module:migrate partners
 ```
 
 ---
