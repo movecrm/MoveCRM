@@ -108,7 +108,11 @@ For support or inquiries, please reach out to our [support team](mailto:support@
 
 MoveCRM is proudly supported by our amazing sponsors. A big thank you to:
 
-[![themeselection.com](https://hf2kfb.infiniteuploads.cloud/thegem-logos/logo_80fe48c54d95b89dfcc63d4b263e38b6_1x.png)](https://themeselection.com/)
+<a href="https://themeselection.com" target="_blank">
+  <img src="https://hf2kfb.infiniteuploads.cloud/thegem-logos/logo_80fe48c54d95b89dfcc63d4b263e38b6_1x.png" alt="ThemeSelection Logo" width="200">
+</a>
+
+Thanks to <a href="https://themeselection.com" target="_blank">ThemeSelection</a> for sponsoring the development of this project. 
 
 ---
 
