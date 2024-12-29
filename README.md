@@ -122,8 +122,7 @@ View complete [Documentation here](https://movecrm.gitbook.io/movecrm)
 ---
 
 ## Supporting the project
-You can support the maintainer of this project through the referral links below
-- 
+You can support the maintainer of this project through the referral links below:
 
 ---
 
