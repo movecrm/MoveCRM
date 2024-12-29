@@ -116,6 +116,17 @@ Thanks to <a href="https://themeselection.com" target="_blank">ThemeSelection</a
 
 ---
 
+# 📖 Documentation
+View complete [Documentation here](https://movecrm.gitbook.io/movecrm)
+
+---
+
+# Supporting the project
+You can support the maintainer of this project through the referral links below
+- 
+
+---
+
 ### License
 Copyright © [MoveCRM](https://movecrm.org/), 2022 - Present.   
 MoveCRM is licensed under the [MIT License](LICENSE).
