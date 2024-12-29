@@ -116,12 +116,12 @@ Thanks to <a href="https://themeselection.com" target="_blank">ThemeSelection</a
 
 ---
 
-# 📖 Documentation
+## 📖 Documentation
 View complete [Documentation here](https://movecrm.gitbook.io/movecrm)
 
 ---
 
-# Supporting the project
+## Supporting the project
 You can support the maintainer of this project through the referral links below
 - 
 
